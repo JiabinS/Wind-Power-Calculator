@@ -1,0 +1,1 @@
+While only example windspeed is necessary for the calculation, many of these other factors are very helpful to consider. These values were parsed from Brandywine Airport (KOQN) with a web scraper (code available on request) and represent several years of data.
