@@ -1,3 +1,4 @@
+![Image of Turbine](http://i.imgur.com/V32jb4y.jpg)
 # Wind Power Calculator
 
 Calculator and supporting material produced during a study on the feasibility of placing a Wind Turbine on Westtown School's Campus. While Westtown is a Green Ribbon School, there was no way a wind turbine would be possible on campus and the idea was scraped. Each student of Computer Science produced a report; this report represents only my own work. Data was collectively gathered. 
