@@ -9,6 +9,17 @@ Just build main.java in a folder alongside a txt containing average windspeed. T
 
 
 While only example windspeed is necessary for the calculation, many of other factors are very helpful to consider. These values (found in Example) were parsed from Brandywine Airport (KOQN) with a web scraper (code available on request) and represent several years of data.
+## Sample Report
+
+Included for additonal context; example of a report that could be produced with this tool. 
+
+## Example Output
+	You will generate 0.042 megawatt hours of power with one turbine
+	This is 1.01 megawatt hours per day.
+	This means the turbine is producing $40.worth of power each day.
+	In one year the turbine will produce $14615.25worth of power in one year.
+	It will take 136.84 years to make the installation cost back in power savings.
+
 
 ## Contributing
 If you find this code in any way helpful please use it however you see fit. While it's licensed under MIT; I really couldn't care less what you do with it. Sharing Alike would be nice, but not neccesary. 
@@ -18,11 +29,6 @@ If you find this code in any way helpful please use it however you see fit. Whil
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-
-## Sample Report
-
-Included for additonal context; example of a report that could be produced with this tool. 
-
 
 ## License
 
